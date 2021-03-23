@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @carlobytes
+- 🏄 I'd love to skateboard and so some surfing
+- 🌱 I’m currently learning flutter and AWS architectures
+- 📫 Get my updates on my website carlobytes.wordpress.com
